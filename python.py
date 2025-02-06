@@ -1,1 +1,1 @@
-print("Welcome to Sagar's world v3")
+prin("Welcome to Sagar's world v3")
